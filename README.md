@@ -92,7 +92,7 @@ pub enum AgentError {
     ValidationMismatch,
     ContextOverflow,
 }
-
+```
 ---
 
 ## 🛡️ SYSTEM INTELLECTUAL PROPERTY
