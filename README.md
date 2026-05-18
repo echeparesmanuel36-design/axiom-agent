@@ -93,7 +93,6 @@ pub enum AgentError {
     ContextOverflow,
 }
 
-'''
 ---
 
 ## 🛡️ SYSTEM INTELLECTUAL PROPERTY
